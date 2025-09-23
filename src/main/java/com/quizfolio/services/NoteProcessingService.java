@@ -1,4 +1,4 @@
-package com.quizfolio.domain.services;
+package com.quizfolio.services;
 
 public class NoteProcessingService {
 }
